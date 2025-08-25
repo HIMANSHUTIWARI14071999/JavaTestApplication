@@ -1,7 +1,7 @@
-public class Test {
+public class Main {
   public static void main(String[] args) {
-    system.out.println("------------------------------------------------------------------------------------------")
-    system.out.println("Helo from Github")
-    system.out.println("------------------------------------------------------------------------------------------")
+    System.out.println("------------------------------------------------------------------------------------------");
+    System.out.println("Helo from Github");
+    System.out.println("------------------------------------------------------------------------------------------");
       }
 }
